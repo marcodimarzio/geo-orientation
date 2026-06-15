@@ -4,6 +4,9 @@ This repository contains the R code and materials used to reproduce the tables a
 "Discrimination of Geological Orientation Data with Measurement Errors" by Di Marzio, Fensore, Panzera, Passamonti (2026).
 
 # Files available
+
+The folder 'data' contains the two dataset ($L_0^1$ axes and axial-plane orientations).
+
 The folder 'R code' contains all relevant code.
 
 The file "Fig1.r" provides the code to reproduce the shape of the following kernel functions: the von Mises density function and the twicing kernel, along with their deconvolution version obtained using both the Laplace and von Mises error.
