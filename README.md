@@ -1,5 +1,4 @@
 # geo-orientation
-R code and materials to reproduce the tables and figures for the geo-orientation data analysis.
 
 This repository contains the R code and materials used to reproduce the tables and figures for the article
 "Discrimination of Geological Orientation Data with Measurement Errors" by Di Marzio, Fensore, Panzera, Passamonti (2026).
